@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLCF">
+  <DataContextMoniker Name="/QLCFDataContext" />
+  <nestedChildShapes>
+    <classShape Id="de8e94aa-0ac4-4daf-9bf9-ea859c54815e" absoluteBounds="0.5, 6.125, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/QLCFDataContext/Ban" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6637374-b085-41e7-a2df-190caff06bb6" absoluteBounds="0.515, 6.5850000000000009, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c1f5a9c5-8b7c-45fb-b13c-8a7406cb85e6" absoluteBounds="6.25, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/QLCFDataContext/ChiTietHoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a1198059-2ecf-4e4d-a426-2787a86af9af" absoluteBounds="6.265, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e819b7dd-d11f-43bb-a150-fca58318b52c" absoluteBounds="3.5, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/QLCFDataContext/HoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e2893a3b-f2b5-458c-b313-5045cdc4f1cd" absoluteBounds="3.515, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b32d54fb-4b6c-40b5-86a2-32257a285625" absoluteBounds="0.75, 3.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/QLCFDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a1e3829a-36a0-4583-a0b3-e6daa56a08f1" absoluteBounds="0.765, 3.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a92a7847-033e-47b8-af69-73f94b00c4bf" absoluteBounds="4, 5.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/QLCFDataContext/LoaiThucDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d51b5ac3-2a0b-46e2-bdd0-d1366f936262" absoluteBounds="4.015, 6.2100000000000009, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="72136744-65b5-4a9e-8900-9914a1251c4f" absoluteBounds="3.5, 4, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/QLCFDataContext/TaiKhoan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b3b25360-0b48-48e8-afe9-e491dfdc6129" absoluteBounds="3.515, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="26a85f38-a402-409c-97f6-40324cd2c55c" absoluteBounds="6.75, 3.75, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/QLCFDataContext/ThucDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea293318-9407-45b7-8aa7-9ece437a4863" absoluteBounds="6.7650000000000006, 4.2100000000000009, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 1.73159912109375); (6.25 : 1.73159912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLCFDataContext/HoaDon/HoaDon_ChiTietHoaDon" />
+      <nodes>
+        <classShapeMoniker Id="e819b7dd-d11f-43bb-a150-fca58318b52c" />
+        <classShapeMoniker Id="c1f5a9c5-8b7c-45fb-b13c-8a7406cb85e6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(0.59375 : 6.125); (0.59375 : 1.47057309082031); (3.5 : 1.47057309082031)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCFDataContext/Ban/Ban_HoaDon" />
+      <nodes>
+        <classShapeMoniker Id="de8e94aa-0ac4-4daf-9bf9-ea859c54815e" />
+        <classShapeMoniker Id="e819b7dd-d11f-43bb-a150-fca58318b52c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 3.5); (1.75 : 2.25365118164062); (3.5 : 2.25365118164062)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLCFDataContext/NhanVien/NhanVien_HoaDon" />
+      <nodes>
+        <classShapeMoniker Id="b32d54fb-4b6c-40b5-86a2-32257a285625" />
+        <classShapeMoniker Id="e819b7dd-d11f-43bb-a150-fca58318b52c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.69314697265625); (3.5 : 4.69314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLCFDataContext/NhanVien/NhanVien_TaiKhoan" />
+      <nodes>
+        <classShapeMoniker Id="b32d54fb-4b6c-40b5-86a2-32257a285625" />
+        <classShapeMoniker Id="72136744-65b5-4a9e-8900-9914a1251c4f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.5 : 3.75); (7.5 : 2.7131982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCFDataContext/ThucDon/ThucDon_ChiTietHoaDon" />
+      <nodes>
+        <classShapeMoniker Id="26a85f38-a402-409c-97f6-40324cd2c55c" />
+        <classShapeMoniker Id="c1f5a9c5-8b7c-45fb-b13c-8a7406cb85e6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6 : 6.34699625651042); (7.75 : 6.34699625651042); (7.75 : 5.52089680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCFDataContext/LoaiThucDon/LoaiThucDon_ThucDon" />
+      <nodes>
+        <classShapeMoniker Id="a92a7847-033e-47b8-af69-73f94b00c4bf" />
+        <classShapeMoniker Id="26a85f38-a402-409c-97f6-40324cd2c55c" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,921 @@
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\Presentation.exe
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.exe.licenses
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.exe
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.FormAbout.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\BLL.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\Entities.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\BLL.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\Entities.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DAL.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DAL.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DAL.dll.config
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.Form_Chung.Form_DoiMatKhau.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.FormMain.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.Form_Chung.Form_ThongTinCaNhan.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.Form_TN_DatMon.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyBan.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyNhanVien.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyThucDon.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyLoaiTD.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Presentation.exe
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\BLL.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DAL.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Entities.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\BLL.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DAL.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DAL.dll.config
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Entities.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.FormAbout.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Form_Chung.Form_DoiMatKhau.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.FormMain.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Form_Chung.Form_ThongTinCaNhan.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyBan.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyLoaiTD.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyNhanVien.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyThucDon.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Form_TN_DatMon.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.exe.licenses
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.exe
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Form_PC.Form_PC_DanhSachDonHang.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyHoaDon.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Report_HD.resources
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\EnvDTE.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\stdole.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.FormAbout.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Form_Chung.Form_DoiMatKhau.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.FormMain.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Form_Chung.Form_ThongTinCaNhan.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Form_PC.Form_PC_DanhSachDonHang.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyBan.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyHoaDon.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyLoaiTD.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyNhanVien.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyThucDon.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Report_HD.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Form_TN_DatMon.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.exe.licenses
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.exe
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Presentation.exe
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Presentation.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\BLL.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DAL.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Entities.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\EnvDTE.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\stdole.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\EnvDTE80.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\VSLangProj.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\VSLangProj80.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.MSXML.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\VSLangProj2.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\BLL.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DAL.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DAL.dll.config
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Entities.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Presentation.exe
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Presentation.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\BLL.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DAL.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Entities.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\EnvDTE.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\stdole.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\EnvDTE80.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\VSLangProj.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\VSLangProj80.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.MSXML.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\VSLangProj2.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\BLL.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DAL.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DAL.dll.config
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Entities.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.FormAbout.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Form_Chung.Form_DoiMatKhau.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.FormMain.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Form_Chung.Form_ThongTinCaNhan.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Form_PC.Form_PC_DanhSachDonHang.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyBan.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyHoaDon.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyLoaiTD.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyNhanVien.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Form_QL_QuanLyThucDon.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Form_QL.Report_HD.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Form_TN_DatMon.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.exe.licenses
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.exe
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_85%if90%\QuanLyCF\Presentation\obj\Debug\Presentation.pdb

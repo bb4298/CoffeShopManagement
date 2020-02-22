@@ -1,0 +1,67 @@
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\BLL.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\BLL.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\DAL.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\DAL.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\obj\Debug\BLL.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\obj\Debug\BLL.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\DAL.dll.config
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\BLL\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\BLL.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\BLL.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\DAL.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\DAL.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\DAL.dll.config
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\obj\Debug\BLL.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\obj\Debug\BLL.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\BLL.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\BLL.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\DAL.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\DAL.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\DAL.dll.config
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\obj\Debug\BLL.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\obj\Debug\BLL.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\Entities.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\BLL\bin\Debug\Entities.pdb

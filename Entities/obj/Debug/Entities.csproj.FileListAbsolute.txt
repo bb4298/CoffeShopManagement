@@ -1,0 +1,18 @@
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Entities\bin\Debug\Entities.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Entities\bin\Debug\Entities.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Entities\obj\Debug\Entities.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF\Entities\obj\Debug\Entities.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Entities\bin\Debug\Entities.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Entities\bin\Debug\Entities.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Entities\obj\Debug\Entities.dll
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Entities\obj\Debug\Entities.pdb
+C:\Users\Quang Nguyen\source\repos\QuanLyCF_VER2\QuanLyCF\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Entities\bin\Debug\Entities.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Entities\bin\Debug\Entities.pdb
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Entities\obj\Debug\Entities.dll
+C:\Users\My Hp\Desktop\BT Nhóm\QuanLyCF_VER4\QuanLyCF\Entities\obj\Debug\Entities.pdb
